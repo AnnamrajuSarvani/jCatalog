@@ -1,0 +1,8 @@
+
+  TenantId,
+
+  Product{productId ,supplierId}
+
+  Prices: { fromQuantity,price,pricetype},
+
+  attributes: { attributeId,attributeLanguage,attributeValue }    
